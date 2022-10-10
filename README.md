@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @li_husnain 
 - 👀 I’m interested in programming... 
 - 🌱 I’m currently learning codes.. 
-- 💞️ I’m looking to collaborate on... 
-- 📫 How to reach me ...
+-  I'm take to {
+           position: permanent 
+           style: bold 
+           type: awesome 
+          } 
 
 <!---
 Husnaine9/Husnaine9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
